@@ -2,6 +2,7 @@
 using BaseAPI.Structure;
 using BaseAPI.Excel;
 using System.Collections.Generic;
+using Newtonsoft.Json;
 
 
 namespace BaseAPI.Controllers
@@ -18,11 +19,13 @@ namespace BaseAPI.Controllers
             _excelService = new ExcelReader();
         }
 
+        // Controllers/DataController.cs
         [HttpGet]
-        public ActionResult<IEnumerable<ResponseStructure>> Get()
+        public JsonResult Get()
         {
             List<ResponseStructure> structures = _excelService.ReadData(_excelFilePath);
-            return Ok(structures);
+            return new JsonResult(structures);
         }
+
     }
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ot5lOBuCs2hNipjtPvP36KRgkyj7Fi/q0Ey8BucMiiOQN3Ittw3Q7XTXjBHxvyyMIatFKe5qbGc/eGFbjiBMSA==",
+  "dgSpecHash": "AmSz9FPswdbp3HHG9qtUaRhMe/ebOVad7ygkfBxbNHkjXScNInjvwnhMWqC563jgldyaJi1eTmgQO3v5CMCLeA==",
   "success": true,
   "projectFilePath": "C:\\Users\\bjovan01\\Documents\\GitHub\\BaseAPI\\BaseAPI\\BaseAPI.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\bjovan01\\.nuget\\packages\\exceldatareader.dataset\\3.6.0\\exceldatareader.dataset.3.6.0.nupkg.sha512",
     "C:\\Users\\bjovan01\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\bjovan01\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\bjovan01\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\bjovan01\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\bjovan01\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\bjovan01\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",

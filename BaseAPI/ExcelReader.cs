@@ -11,7 +11,7 @@ namespace BaseAPI.Excel
     {
         public List<ResponseStructure> ReadData(string filePath)
         {
-            List<ResponseStructure> responses = [];
+            List<ResponseStructure> responses = new List<ResponseStructure>();
             Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
 
             using (FileStream stream = File.Open(filePath, FileMode.Open, FileAccess.Read))
@@ -25,7 +25,7 @@ namespace BaseAPI.Excel
                     DataRow? row = dataTable.Rows[i];
                     ResponseStructure? response = new()
                     {
-                        Key = row[0].ToString(),
+                        Key = i.ToString(),
                         Value = row[1].ToString()
                     };
                     responses.Add(response);
