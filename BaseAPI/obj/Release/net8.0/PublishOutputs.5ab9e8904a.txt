@@ -8,6 +8,7 @@ C:\Users\bjovan01\Documents\GitHub\BaseAPI\BaseAPI\obj\Release\net8.0\PubTmp\Out
 C:\Users\bjovan01\Documents\GitHub\BaseAPI\BaseAPI\obj\Release\net8.0\PubTmp\Out\ExcelDataReader.dll
 C:\Users\bjovan01\Documents\GitHub\BaseAPI\BaseAPI\obj\Release\net8.0\PubTmp\Out\ExcelDataReader.DataSet.dll
 C:\Users\bjovan01\Documents\GitHub\BaseAPI\BaseAPI\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\bjovan01\Documents\GitHub\BaseAPI\BaseAPI\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
 C:\Users\bjovan01\Documents\GitHub\BaseAPI\BaseAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\bjovan01\Documents\GitHub\BaseAPI\BaseAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\bjovan01\Documents\GitHub\BaseAPI\BaseAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

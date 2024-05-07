@@ -32,3 +32,4 @@ C:\Users\bjovan01\Documents\GitHub\BaseAPI\BaseAPI\obj\Release\net8.0\refint\Bas
 C:\Users\bjovan01\Documents\GitHub\BaseAPI\BaseAPI\obj\Release\net8.0\BaseAPI.pdb
 C:\Users\bjovan01\Documents\GitHub\BaseAPI\BaseAPI\obj\Release\net8.0\BaseAPI.genruntimeconfig.cache
 C:\Users\bjovan01\Documents\GitHub\BaseAPI\BaseAPI\obj\Release\net8.0\ref\BaseAPI.dll
+C:\Users\bjovan01\Documents\GitHub\BaseAPI\BaseAPI\bin\Release\net8.0\Newtonsoft.Json.dll
